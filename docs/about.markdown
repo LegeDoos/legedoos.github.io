@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Over deze site
 permalink: /about/
 ---
 
